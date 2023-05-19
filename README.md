@@ -1,4 +1,3 @@
-Sure, here's an example of a README file for your GitHub repository:
 
 Insta Logger
 Insta Logger is a simple Python script that generates password combinations based on a username input and logs the attempts made from the generated password list.
