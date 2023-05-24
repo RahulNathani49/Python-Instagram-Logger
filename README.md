@@ -9,7 +9,7 @@ Getting Started
 Clone this repository to your local machine.
 shell
 Copy code
-$ git clone https://github.com/your-username/insta-logger.git
+$ git clone (https://github.com/RahulNathani49/Python-Instagram-Logger)
 Navigate to the project directory.
 shell
 Copy code
